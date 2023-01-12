@@ -1,0 +1,9 @@
+.place__title_kurshskaya {
+    word-spacing: 10px;
+}
+
+@media (max-width:320px) {
+    .place__title_kurshskaya {
+        word-spacing: 0;
+    }
+}
